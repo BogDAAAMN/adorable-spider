@@ -35,10 +35,6 @@ Please follow announcements of upcoming talks on Twitter or our [Slack channel](
 
 Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish to present in this series.
 
-## Upcoming talks
-
-
-
 ## Past talks
 
 **Date**: 25 June 2021
