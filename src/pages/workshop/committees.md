@@ -44,7 +44,7 @@ template: page
 - [Marina Danilevsky](http://marinadanilevsky.com/) - IBM Research (US)
 - [Stefania Degaetano-Ortlieb](https://stefaniadegaetano.com/) - Saarland University (Germany)
 - [Luigi Di Caro](https://luigidicaro.me/) - Turin University (Italy)
-- [Fabiana Di Porto](https://csrcl.huji.ac.il/people/fabiana-di-porto) - University of Salerno (Italy)
+- [Fabiana Di Porto](http://www.lawandtechnology.it/) - University of Salento (Italy)
 - [Arthur Dyevre](https://www.law.kuleuven.be/pub/en/staff/00090833) - KU Leuven (Belgium)
 - Emmanouil Fergadiotis - NCSR "Demokritos" & AUEB (Greece)
 - [Matthias Grabmair](https://www.andrew.cmu.edu/user/mgrabmai/) - Technical University of Munich (Germany)
