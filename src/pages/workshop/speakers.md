@@ -27,9 +27,9 @@ template: page
 
 ## John Armour (Oxford Law)
 
-**Title**: TBA
+**Title**: Access to Caselaw Data in the UK: Constraints and Future Prospects
 
-**Abstract**: TBA
+**Abstract**: In this talk, we will consider the legal, regulatory and practical constraints on access to caselaw data in the UK for use in legal NLP applications, contrasting these with the position in other leading jurisdictions. We will analyse how the legal constraints can be managed and provide an overview of the future prospects for data access.
 
 ![Block Image](/images/john-armour.png)
 
