@@ -104,3 +104,18 @@ Please reach out to the [organizers](mailto:nllp.chairs@gmail.com) if you wish t
 **Discussant**: Gijs van Dijck (Maastricht University)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AWyuI065o2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
+**Date**: 14 May 2021
+
+**Title**: Cross-lingual Annotation Projection in Legal Texts ([Paper](https://www.aclweb.org/anthology/2020.coling-main.79.pdf))
+
+**Speakers**: Andrea Galassi (University of Bologna), Kasper Drazewski (Bureau Europeen des Unions de Consommateurs)
+
+**Discussant**: Monika Leszczynska (Maastricht University)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fImtpIRKf4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
